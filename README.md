@@ -1,5 +1,7 @@
-Olá, meu nome é Luana! <img src="https://i.gifer.com/origin/fb/fbca6454f3e0c08aeb8f459db199d638_w200.gif" width="80px"></h1>
+<hr>
+<h1> Olá, meu nome é Luana! <img src="https://i.gifer.com/origin/fb/fbca6454f3e0c08aeb8f459db199d638_w200.gif" width="80px"></h1>
 
+<br>
 
 <div align="center">
 
@@ -9,12 +11,28 @@ Olá, meu nome é Luana! <img src="https://i.gifer.com/origin/fb/fbca6454f3e0c08
  
 <p align=center><samp> Sou graduanda em Sitemas de informação. Apaixonada por cachorros, games, tecnologia e matemática. Atualmente estudando o desenvolvimento de sistemas usando as linguaggens Python e Javascript, mas também gosto de brincar com a área de dados, principalmente com BI.</p></samp>  
 
+<br>
+
+<div align="center">
+ 
+ 
+## <img src="https://cdn-icons-png.flaticon.com/512/465/465267.png" width="25px"> <samp>Skills: </samp>
+ 
+ <div style="display: inline_block"><br>
+  
+<img align="center" alt="Lua-Python" height="60" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg">&nbsp;&nbsp;&nbsp; 
+ 
+ <img align="center" alt="Lua-Python" height="60" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg">&nbsp;&nbsp;&nbsp;
+          
+        
+</div>
+ 
+ 
 
 <div align="center">
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Luanablucas&count_private=true&show_icons=true&theme=synthwave))](https://github.com/anuraghazra/github-readme-stats)
  
-
 </div> 
 
 
@@ -27,4 +45,4 @@ Olá, meu nome é Luana! <img src="https://i.gifer.com/origin/fb/fbca6454f3e0c08
 </div>  
  
  
-<img align="center" alt="Luana-gif" height="" width="" src="https://media.discordapp.net/attachments/1081649190779760761/1081650769146695802/ezgif.com-gif-maker.gif?width=606&height=606">
+<img align="center" alt="Luana-gif" height="250" width="250" src="https://media.discordapp.net/attachments/1081649190779760761/1081650769146695802/ezgif.com-gif-maker.gif?">
