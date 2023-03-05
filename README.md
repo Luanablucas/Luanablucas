@@ -1,5 +1,5 @@
 <hr>
-<h1> Olá, meu nome é Luana! <img src="https://i.gifer.com/origin/fb/fbca6454f3e0c08aeb8f459db199d638_w200.gif" width="80px"></h1>
+<h1> Olá, meu nome é Luana! <img src="https://cdn.discordapp.com/attachments/1081649190779760761/1081939674311958598/giphy.gif" width="80px"></h1>
 
 <br>
 
