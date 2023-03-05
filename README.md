@@ -5,7 +5,7 @@
 
 <div align="center">
 
-## <img src="https://cdn-icons-png.flaticon.com/512/408/408159.png" width="25px"> <samp>Um pouco sobre mim:</samp>
+## <img  alt="Lua-Documento" height="40" width="40" src="https://cdn.discordapp.com/attachments/1081649190779760761/1081933172188663838/icons8-documento-100.png"> <samp>Um pouco sobre mim:</samp>
 
 </div>
  
@@ -16,7 +16,7 @@
 <div align="center">
  
  
-## <img src="https://cdn-icons-png.flaticon.com/512/465/465267.png" width="25px"> <samp>Skills: </samp>
+## <img alt="Lua-Foguete" height="40" width="40" src="https://cdn.discordapp.com/attachments/1081649190779760761/1081938377915510914/icons8-foguete-64.png"> <samp>Skills: </samp>
  
  <div style="display: inline_block"><br>
   
