@@ -16,7 +16,7 @@
 <div align="center">
  
  
-## <img alt="Lua-Foguete" height="40" width="40" src="https://cdn.discordapp.com/attachments/1081649190779760761/1081938377915510914/icons8-foguete-64.png"> <samp>Skills: </samp>
+## <img alt="Lua-Foguete" height="40" width="40" src="https://cdn.discordapp.com/attachments/1081649190779760761/1081938377915510914/icons8-foguete-64.png"> <samp>Estudando: </samp>
  
 <div style="display: inline_block"><br>
   
