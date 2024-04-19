@@ -9,7 +9,7 @@
 
 </div>
  
-<p align=center><samp> Sou graduanda em Sitemas de informação. Apaixonada por cachorros, games, tecnologia e matemática. Atualmente estudando o desenvolvimento de sistemas usando as linguaggens Python e Javascript, mas também gosto de brincar com a área de dados, principalmente com BI.</p></samp>  
+<p align=center><samp> Sou graduanda em Sitemas de informação. Apaixonada por cachorros, games, tecnologia e animes. Atualmente estudando o desenvolvimento de sistemas usando C# e me aventurando muito em mobile com Flutter.</p></samp>  
 
 <br>
 
@@ -32,7 +32,6 @@
  
 <div align="center">
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Luanablucas&count_private=true&show_icons=true&theme=synthwave)](https://github.com/luanablucas/github-readme-stats)
  
 </div> 
 
